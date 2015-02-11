@@ -42,7 +42,7 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.vibration" />
-    <gap:plugin name="org.apache.cordova.api.CordovaPlugin"/>
+    <gap:plugin name="org.apache.cordova.CordovaPlugin"/>
 
     <!-- Este plugin (externo) si que funciona-->
      <!--<gap:plugin name="nl.x-services.plugins.calendar.berserk" version="3.2" />-->
